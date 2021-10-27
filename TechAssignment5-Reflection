@@ -1,0 +1,5 @@
+FriendlyEats Reflection:
+
+From this lesson I learned how to use cloud firestore to store and handle data collection from search queries.
+I learned how to host cloud firestore on my local machine and using knowledge from GCP, I feel like I could 
+have GCP host this so I wouldnt have to run it on my local machine and allow others to access the Friendly Eats Application.
